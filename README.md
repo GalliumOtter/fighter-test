@@ -1,2 +1,1 @@
-# fighter-test
-version control real
+this game goes hard
